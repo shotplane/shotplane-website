@@ -29,8 +29,6 @@ export default function Document() {
         <meta name="theme-color" content="#ffffff" />
 
         <script type="text/javascript" src="https://s3.tradingview.com/tv.js" defer />
-        <script src="https://www.google.com/recaptcha/api.js?render=6LfYc58pAAAAAOitqhJilkLZdeTRRlQK60vJ5Hwy"></script>
-
         {gacCode && (
           <>
             <script

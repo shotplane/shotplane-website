@@ -129,7 +129,6 @@ const WalletSelectionModal = ({ Dialog, handleShow, handleHide }) => {
             ))}
           </div>
           <div className="flex justify-center items-center">
-            {/* <LoginByGoogleBtn /> */}
           </div>
         </div>
       </Modal.Body>
